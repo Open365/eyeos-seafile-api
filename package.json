@@ -1,0 +1,25 @@
+{
+  "name": "eyeos-seafile-api",
+  "version": "0.0.19",
+  "description": "Library that makes calls to seafile server",
+  "author": "eyeOS",
+  "homepage": "http://www.eyeos.com/",
+  "main": "src/eyeos-seafile-api.js",
+  "dependencies": {
+    "log2out": "*",
+    "request": "2.69.0",
+    "seafile-api": "0.1.0"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "eyeos-gruntfile": "*",
+    "eyeos-hooks": "*",
+    "grunt": "0.4.5",
+    "grunt-init": "0.2.1",
+    "grunt-mocha-test": "0.11.0",
+    "grunt-shell": "0.7.0",
+    "mocha": "1.20.0",
+    "sinon": "1.7.3"
+  },
+  "license": "AGPL-3.0"
+}

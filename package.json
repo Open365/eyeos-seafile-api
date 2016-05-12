@@ -1,6 +1,6 @@
 {
   "name": "eyeos-seafile-api",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "Library that makes calls to seafile server",
   "author": "eyeOS",
   "homepage": "http://www.eyeos.com/",
